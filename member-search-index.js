@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"maths","c":"Calculator","l":"Calculator()","url":"%3Cinit%3E()"},{"p":"maths","c":"Calculator","l":"sumNumbers(int, int)","url":"sumNumbers(int,int)"}]
